@@ -1,5 +1,4 @@
-# fe-notes
-前端收藏手册笔记
+**前端收藏手册笔记**
 
 ## 前端github组织 Organization
 - [饿了么大前端 ElemeFE](https://github.com/ElemeFE)
